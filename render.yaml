@@ -1,0 +1,51 @@
+# ==============================================================================
+# SENTINEL AI – Render Blueprint Specification (render.yaml)
+# Academic Project: CSE276 – Artificial Intelligence Foundations
+# ==============================================================================
+
+services:
+  # ----------------------------------------------------------------------------
+  # 1. FastAPI Machine Learning Backend Web Service
+  # ----------------------------------------------------------------------------
+  - type: web
+    name: sentinel-ai-backend
+    runtime: python
+    rootDir: backend
+    plan: free
+    region: oregon
+    buildCommand: pip install -r requirements.txt && python -m nltk.downloader punkt punkt_tab stopwords wordnet omw-1.4
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/v1/health
+    autoDeploy: true
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: API_V1_STR
+        value: /api/v1
+      - key: CORS_ORIGINS
+        value: http://localhost:5173,http://127.0.0.1:5173,http://localhost:4173
+      - key: MAX_UPLOAD_SIZE_MB
+        value: "10"
+      - key: MAX_TEXT_LENGTH
+        value: "5000"
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  # ----------------------------------------------------------------------------
+  # 2. React 18 + Vite Frontend Static Site
+  # ----------------------------------------------------------------------------
+  - type: static_site
+    name: sentinel-ai-frontend
+    rootDir: frontend
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    publishDir: dist
+    autoDeploy: true
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://sentinel-ai-backend.onrender.com/api/v1

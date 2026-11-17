@@ -1,0 +1,77 @@
+{
+  "model_name": "Multinomial Logistic Regression (L2, Balanced)",
+  "algorithm": "logistic_regression",
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "training_dataset_size": 11524,
+  "testing_dataset_size": 2881,
+  "vocabulary_size": 7235,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "sublinear_tf": true,
+  "max_features": 25000,
+  "min_df": 3,
+  "max_df": 0.95,
+  "accuracy": 0.7643179451579313,
+  "precision_macro": 0.7017067588911524,
+  "recall_macro": 0.7319786324965256,
+  "f1_macro": 0.7137607781485693,
+  "f1_weighted": 0.7712221615053015,
+  "class_metrics": {
+    "negative": {
+      "precision": 0.8934226552984166,
+      "recall": 0.8082644628099174,
+      "f1_score": 0.8487127567254845
+    },
+    "neutral": {
+      "precision": 0.543010752688172,
+      "recall": 0.6633825944170771,
+      "f1_score": 0.5971914264597191
+    },
+    "positive": {
+      "precision": 0.6686868686868687,
+      "recall": 0.7242888402625821,
+      "f1_score": 0.6953781512605042
+    }
+  },
+  "confusion_matrix": [
+    [
+      1467,
+      257,
+      91
+    ],
+    [
+      132,
+      404,
+      73
+    ],
+    [
+      43,
+      83,
+      331
+    ]
+  ],
+  "latency_ms_per_sample": 0.00030454021905371403,
+  "hyperparameters": {
+    "C": 0.5,
+    "class_weight": "balanced",
+    "dual": false,
+    "fit_intercept": true,
+    "intercept_scaling": 1,
+    "l1_ratio": 0.0,
+    "max_iter": 1000,
+    "n_jobs": null,
+    "penalty": "deprecated",
+    "random_state": 42,
+    "solver": "lbfgs",
+    "tol": 0.0001,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "training_date": "2026-11-17T20:55:56.591784"
+}

@@ -1,0 +1,92 @@
+# ==========================================
+# SENTINEL AI – Production .gitignore
+# Academic Course: CSE276 – Artificial Intelligence Foundations
+# ==========================================
+
+# 1. Python Cache & Compilation
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 2. Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# 3. Environment Variables & Secrets
+.env
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+!backend/.env.example
+!frontend/.env.example
+
+# 4. Node.js & Frontend Bundles
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 5. SQLite Databases
+*.sqlite
+*.sqlite3
+*.db
+backend/sentinel.db
+backend/tests/*.db
+sentinel_test_*.db
+
+# 6. Temporary Uploads & Logs
+backend/uploads/*.csv
+!backend/uploads/.gitkeep
+*.log
+logs/
+.pytest_cache/
+.coverage
+htmlcov/
+.cache
+
+# 7. OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 8. Machine Learning Artifacts
+# Preserve champion serialized models and datasets needed for production inference
+!backend/ml/saved_models/model.joblib
+!backend/ml/saved_models/vectorizer.joblib
+!backend/ml/saved_models/metadata.json
+!backend/ml/saved_models/.gitkeep
+!backend/ml/datasets/*.csv
+!backend/ml/datasets/.gitkeep

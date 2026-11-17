@@ -1,0 +1,158 @@
+{
+  "logistic_regression": {
+    "model_name": "logistic_regression",
+    "accuracy": 0.7643179451579313,
+    "precision_macro": 0.7017067588911524,
+    "recall_macro": 0.7319786324965256,
+    "f1_macro": 0.7137607781485693,
+    "precision_weighted": 0.7837020363566893,
+    "recall_weighted": 0.7643179451579313,
+    "f1_weighted": 0.7712221615053015,
+    "class_metrics": {
+      "negative": {
+        "precision": 0.8934226552984166,
+        "recall": 0.8082644628099174,
+        "f1_score": 0.8487127567254845
+      },
+      "neutral": {
+        "precision": 0.543010752688172,
+        "recall": 0.6633825944170771,
+        "f1_score": 0.5971914264597191
+      },
+      "positive": {
+        "precision": 0.6686868686868687,
+        "recall": 0.7242888402625821,
+        "f1_score": 0.6953781512605042
+      }
+    },
+    "confusion_matrix": [
+      [
+        1467,
+        257,
+        91
+      ],
+      [
+        132,
+        404,
+        73
+      ],
+      [
+        43,
+        83,
+        331
+      ]
+    ],
+    "classification_report": {
+      "negative": {
+        "precision": 0.8934226552984166,
+        "recall": 0.8082644628099174,
+        "f1-score": 0.8487127567254845,
+        "support": 1815.0
+      },
+      "neutral": {
+        "precision": 0.543010752688172,
+        "recall": 0.6633825944170771,
+        "f1-score": 0.5971914264597191,
+        "support": 609.0
+      },
+      "positive": {
+        "precision": 0.6686868686868687,
+        "recall": 0.7242888402625821,
+        "f1-score": 0.6953781512605042,
+        "support": 457.0
+      },
+      "accuracy": 0.7643179451579313,
+      "macro avg": {
+        "precision": 0.7017067588911524,
+        "recall": 0.7319786324965256,
+        "f1-score": 0.7137607781485693,
+        "support": 2881.0
+      },
+      "weighted avg": {
+        "precision": 0.7837020363566893,
+        "recall": 0.7643179451579313,
+        "f1-score": 0.7712221615053015,
+        "support": 2881.0
+      }
+    },
+    "latency_ms_per_sample": 0.00030454021905371403
+  },
+  "multinomial_nb": {
+    "model_name": "multinomial_nb",
+    "accuracy": 0.7525164873307879,
+    "precision_macro": 0.6775099478388095,
+    "recall_macro": 0.7126451787406768,
+    "f1_macro": 0.691235632830932,
+    "precision_weighted": 0.7649689255767418,
+    "recall_weighted": 0.7525164873307879,
+    "f1_weighted": 0.7563821555620602,
+    "class_metrics": {
+      "negative": {
+        "precision": 0.8761114404267931,
+        "recall": 0.8143250688705234,
+        "f1_score": 0.8440890919474586
+      },
+      "neutral": {
+        "precision": 0.5608552631578947,
+        "recall": 0.5599343185550082,
+        "f1_score": 0.5603944124897289
+      },
+      "positive": {
+        "precision": 0.5955631399317406,
+        "recall": 0.7636761487964989,
+        "f1_score": 0.6692233940556088
+      }
+    },
+    "confusion_matrix": [
+      [
+        1478,
+        208,
+        129
+      ],
+      [
+        160,
+        341,
+        108
+      ],
+      [
+        49,
+        59,
+        349
+      ]
+    ],
+    "classification_report": {
+      "negative": {
+        "precision": 0.8761114404267931,
+        "recall": 0.8143250688705234,
+        "f1-score": 0.8440890919474586,
+        "support": 1815.0
+      },
+      "neutral": {
+        "precision": 0.5608552631578947,
+        "recall": 0.5599343185550082,
+        "f1-score": 0.5603944124897289,
+        "support": 609.0
+      },
+      "positive": {
+        "precision": 0.5955631399317406,
+        "recall": 0.7636761487964989,
+        "f1-score": 0.6692233940556088,
+        "support": 457.0
+      },
+      "accuracy": 0.7525164873307879,
+      "macro avg": {
+        "precision": 0.6775099478388095,
+        "recall": 0.7126451787406768,
+        "f1-score": 0.691235632830932,
+        "support": 2881.0
+      },
+      "weighted avg": {
+        "precision": 0.7649689255767418,
+        "recall": 0.7525164873307879,
+        "f1-score": 0.7563821555620602,
+        "support": 2881.0
+      }
+    },
+    "latency_ms_per_sample": 0.0002743344636312668
+  }
+}
