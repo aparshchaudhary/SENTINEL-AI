@@ -6,7 +6,12 @@ Implements tokenization, negation-preserving stopword filtering,
 and WordNet lemmatization for sentiment analysis.
 """
 
+import os
 from typing import List, Optional, Set
+
+# Enable NLTK downloads through egress proxies on cloud environments
+os.environ["NLTK_ALLOW_PROXIED_URLOPEN"] = "1"
+
 import nltk
 from nltk.corpus import stopwords, wordnet
 from nltk.stem import WordNetLemmatizer

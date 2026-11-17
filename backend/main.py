@@ -9,6 +9,9 @@ import os
 import sys
 from contextlib import asynccontextmanager
 
+# Enable NLTK downloads through egress proxies (prevents CWE-918 blocking on cloud hosts like Render)
+os.environ["NLTK_ALLOW_PROXIED_URLOPEN"] = "1"
+
 from fastapi import FastAPI, Request, status
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
