@@ -7,12 +7,30 @@ and WordNet lemmatization for sentiment analysis.
 """
 
 import os
+import sys
 from typing import List, Optional, Set
 
 # Enable NLTK downloads through egress proxies on cloud environments
 os.environ["NLTK_ALLOW_PROXIED_URLOPEN"] = "1"
 
+# Configure dedicated private NLTK data directory to prevent permission/world-writable directory issues
+NLTK_DATA_DIR = os.path.expanduser("~/nltk_data")
+os.makedirs(NLTK_DATA_DIR, exist_ok=True)
+
 import nltk
+if NLTK_DATA_DIR not in nltk.data.path:
+    nltk.data.path.insert(0, NLTK_DATA_DIR)
+
+# Auto-download required corpora to private directory if missing
+for _res in ["punkt", "punkt_tab", "stopwords", "wordnet", "omw-1.4"]:
+    try:
+        nltk.data.find(f"tokenizers/{_res}" if "punkt" in _res else f"corpora/{_res}")
+    except LookupError:
+        try:
+            nltk.download(_res, download_dir=NLTK_DATA_DIR, quiet=True)
+        except Exception:
+            pass
+
 from nltk.corpus import stopwords, wordnet
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize

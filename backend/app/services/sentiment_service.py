@@ -76,9 +76,13 @@ class SentimentService:
         return self._predictor
 
     def is_model_loaded(self) -> bool:
+        if self._predictor is None or self._predictor.model is None:
+            self._init_service()
         return self._predictor is not None and self._predictor.model is not None
 
     def is_vectorizer_loaded(self) -> bool:
+        if self._predictor is None or self._predictor.vectorizer is None:
+            self._init_service()
         return self._predictor is not None and self._predictor.vectorizer is not None
 
     def get_model_name(self) -> str:

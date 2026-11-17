@@ -45,11 +45,16 @@ async def lifespan(app: FastAPI):
     # 0. Ensure NLTK resources are available in production
     try:
         import nltk
+        nltk_dir = os.path.expanduser("~/nltk_data")
+        os.makedirs(nltk_dir, exist_ok=True)
+        if nltk_dir not in nltk.data.path:
+            nltk.data.path.insert(0, nltk_dir)
+
         for resource in ["punkt", "punkt_tab", "stopwords", "wordnet", "omw-1.4"]:
             try:
                 nltk.data.find(f"tokenizers/{resource}" if "punkt" in resource else f"corpora/{resource}")
             except LookupError:
-                nltk.download(resource, quiet=True)
+                nltk.download(resource, download_dir=nltk_dir, quiet=True)
         print("[NLTK] Verified linguistic corpora and tokenizers.")
     except Exception as e:
         print(f"[NLTK WARNING] Resource check: {e}")
