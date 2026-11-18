@@ -11,6 +11,7 @@ import {
   X,
   ExternalLink,
 } from 'lucide-react';
+import { API_BASE_URL } from '../../services/api';
 
 const NAV_ITEMS = [
   { name: 'Dashboard', path: '/', icon: LayoutDashboard },
@@ -99,7 +100,7 @@ export const Sidebar = ({ isOpen, onClose }) => {
           </div>
 
           <a
-            href="http://127.0.0.1:8000/docs"
+            href={API_BASE_URL.replace('/api/v1', '/docs')}
             target="_blank"
             rel="noreferrer"
             className="flex items-center justify-between px-3 py-2 text-[11px] text-slate-400 hover:text-white rounded-lg hover:bg-slate-800/60 transition-colors"

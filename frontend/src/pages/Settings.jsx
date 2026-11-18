@@ -13,7 +13,7 @@ import {
   RefreshCw,
 } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
-import api from '../services/api';
+import api, { API_BASE_URL } from '../services/api';
 import Card from '../components/common/Card';
 import Button from '../components/common/Button';
 
@@ -23,7 +23,7 @@ export const Settings = () => {
   const [testingHealth, setTestingHealth] = useState(false);
   const [testResult, setTestResult] = useState(null);
 
-  const apiBaseUrl = import.meta.env.VITE_API_BASE_URL || 'http://127.0.0.1:8000/api/v1';
+  const apiBaseUrl = API_BASE_URL;
 
   const checkConnectivity = async () => {
     setTestingHealth(true);
@@ -102,7 +102,7 @@ export const Settings = () => {
             <div className="flex justify-between items-center py-1">
               <span className="text-slate-400">Interactive Documentation</span>
               <a
-                href="http://127.0.0.1:8000/docs"
+                href={API_BASE_URL.replace('/api/v1', '/docs')}
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-400 hover:text-blue-300 font-mono flex items-center gap-1"
