@@ -25,6 +25,26 @@ const SAMPLE_TEXTS = [
     label: 'Neutral Statement',
     text: 'The scheduled flight UA104 departs at 4:15 PM from terminal 3, gate B12.',
   },
+  {
+    label: 'Negation Nuance',
+    text: 'The journey was not bad at all, actually quite relaxing and not delayed.',
+  },
+  {
+    label: 'Severe Delay',
+    text: 'Flight delayed by 5 hours with zero updates or refreshments provided at the gate. Very frustrating and unprofessional!',
+  },
+  {
+    label: 'First Class Praise',
+    text: 'Super comfortable lie-flat seats, gourmet dining, and delightful cabin crew! Truly exceptional 5-star service.',
+  },
+  {
+    label: 'Baggage Inquiry',
+    text: 'Can you please confirm if baggage claim carousel 4 is open for passengers arriving from Denver flight 842?',
+  },
+  {
+    label: 'Mixed Experience',
+    text: 'The cabin attendants were polite and friendly, but the entertainment screens were broken and the legroom was uncomfortably small.',
+  },
 ];
 
 export const LiveAnalyzer = () => {
