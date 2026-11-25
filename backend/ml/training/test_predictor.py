@@ -26,7 +26,12 @@ def run_predictor_tests():
         predictor = SentimentPredictor()
         print("Model, Vectorizer, and Metadata loaded successfully!")
         print(f"Active Model: {predictor.metadata.get('model_name')}")
-        print(f"Vocabulary Size: {len(predictor.vectorizer.vocabulary_):,} features")
+        vocab_size = (
+            len(predictor.vectorizer.vocabulary_)
+            if hasattr(predictor.vectorizer, "vocabulary_")
+            else predictor.metadata.get("vocabulary_size", 0)
+        )
+        print(f"Vocabulary Size: {vocab_size:,} features")
         print(f"Classes: {predictor.classes}")
     except Exception as e:
         print(f"FATAL: Artifact loading failed: {e}")

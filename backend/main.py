@@ -83,12 +83,12 @@ async def lifespan(app: FastAPI):
         if metrics_count == 0 and sentiment_service.is_model_loaded() and sentiment_service.predictor.metadata:
             meta = sentiment_service.predictor.metadata
             seed_metrics = ModelMetrics(
-                model_name=meta.get("model_name", "Logistic Regression"),
-                accuracy=meta.get("accuracy", 0.7643),
-                precision=meta.get("precision_macro", 0.7017),
-                recall=meta.get("recall_macro", 0.7320),
-                macro_f1=meta.get("f1_macro", 0.7138),
-                weighted_f1=meta.get("f1_weighted", 0.7712),
+                model_name=meta.get("model_name", "Multinomial Logistic Regression (L2, Balanced)"),
+                accuracy=meta.get("accuracy", 0.7924),
+                precision=meta.get("precision_macro", 0.7397),
+                recall=meta.get("recall_macro", 0.7356),
+                macro_f1=meta.get("f1_macro", 0.7374),
+                weighted_f1=meta.get("f1_weighted", 0.7933),
             )
             db.add(seed_metrics)
             db.commit()

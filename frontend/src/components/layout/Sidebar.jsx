@@ -92,10 +92,10 @@ export const Sidebar = ({ isOpen, onClose }) => {
           <div className="p-3 rounded-xl bg-slate-900/80 border border-slate-800/80">
             <div className="flex items-center justify-between text-[11px] mb-1">
               <span className="text-slate-400 font-medium">Champion Model</span>
-              <span className="text-emerald-400 font-mono font-bold">76.43%</span>
+              <span className="text-emerald-400 font-mono font-bold">79.24%</span>
             </div>
             <p className="text-[10px] text-slate-300 font-mono truncate">
-              LogisticRegression (C=0.5)
+              LogisticRegression (C=1.25, Balanced)
             </p>
           </div>
 

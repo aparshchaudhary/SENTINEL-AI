@@ -8,70 +8,64 @@
   ],
   "training_dataset_size": 11524,
   "testing_dataset_size": 2881,
-  "vocabulary_size": 7235,
+  "vocabulary_size": 45000,
   "ngram_range": [
     1,
     2
   ],
   "sublinear_tf": true,
-  "max_features": 25000,
-  "min_df": 3,
+  "max_features": 45000,
+  "min_df": 1,
   "max_df": 0.95,
-  "accuracy": 0.7643179451579313,
-  "precision_macro": 0.7017067588911524,
-  "recall_macro": 0.7319786324965256,
-  "f1_macro": 0.7137607781485693,
-  "f1_weighted": 0.7712221615053015,
+  "accuracy": 0.7924331829225963,
+  "precision_macro": 0.7322966930067762,
+  "recall_macro": 0.7430381567242518,
+  "f1_macro": 0.7374143785134456,
+  "f1_weighted": 0.7932891921891809,
   "class_metrics": {
     "negative": {
-      "precision": 0.8934226552984166,
-      "recall": 0.8082644628099174,
-      "f1_score": 0.8487127567254845
+      "precision": 0.8771733034212003,
+      "recall": 0.8617079889807162,
+      "f1_score": 0.8693718732629239,
+      "support": 1815.0
     },
     "neutral": {
-      "precision": 0.543010752688172,
-      "recall": 0.6633825944170771,
-      "f1_score": 0.5971914264597191
+      "precision": 0.6160130718954249,
+      "recall": 0.6190476190476191,
+      "f1_score": 0.6175266175266175,
+      "support": 609.0
     },
     "positive": {
-      "precision": 0.6686868686868687,
-      "recall": 0.7242888402625821,
-      "f1_score": 0.6953781512605042
+      "precision": 0.7037037037037037,
+      "recall": 0.7483588621444202,
+      "f1_score": 0.7253446447507953,
+      "support": 457.0
     }
   },
   "confusion_matrix": [
     [
-      1467,
-      257,
-      91
+      1564,
+      176,
+      75
     ],
     [
-      132,
-      404,
-      73
+      163,
+      377,
+      69
     ],
     [
-      43,
-      83,
-      331
+      56,
+      59,
+      342
     ]
   ],
-  "latency_ms_per_sample": 0.00030454021905371403,
+  "latency_ms_per_sample": 0.00017477960397865324,
   "hyperparameters": {
-    "C": 0.5,
+    "C": 1.25,
     "class_weight": "balanced",
-    "dual": false,
-    "fit_intercept": true,
-    "intercept_scaling": 1,
-    "l1_ratio": 0.0,
-    "max_iter": 1000,
-    "n_jobs": null,
-    "penalty": "deprecated",
-    "random_state": 42,
     "solver": "lbfgs",
-    "tol": 0.0001,
-    "verbose": 0,
-    "warm_start": false
+    "max_iter": 1000,
+    "random_state": 42
   },
-  "training_date": "2026-11-17T20:55:56.591784"
+  "training_date": "2026-11-26T00:12:22.620423"
 }
