@@ -66,10 +66,11 @@ async def lifespan(app: FastAPI):
     except Exception as e:
         print(f"[DATABASE ERROR] Table initialization failed: {e}")
 
-    # 2. Warm up ML Predictor
+    # 2. Warm up ML Predictor and NLP pipeline (pre-loads WordNet into RAM)
     try:
         if sentiment_service.is_model_loaded():
-            print(f"[ML ENGINE] Model pre-loaded: {sentiment_service.get_model_name()}")
+            sentiment_service.predictor.predict("Sentiment analysis warmup request")
+            print(f"[ML ENGINE] Model and NLP pipeline pre-warmed successfully: {sentiment_service.get_model_name()}")
         else:
             print("[ML ENGINE WARNING] Model artifacts not pre-loaded. Will load lazily.")
     except Exception as e:

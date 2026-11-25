@@ -9,7 +9,7 @@ export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api/v1';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
-  timeout: 30000,
+  timeout: 60000,
   headers: {
     'Accept': 'application/json',
   },
@@ -29,8 +29,10 @@ apiClient.interceptors.response.use(
       } else {
         errorMessage = `Server returned HTTP ${error.response.status}`;
       }
+    } else if (error.code === 'ECONNABORTED' || (error.message && error.message.includes('timeout'))) {
+      errorMessage = 'Request timed out waiting for server response. The server may be warming up. Please try again.';
     } else if (error.request) {
-      errorMessage = 'Backend server is unreachable. Please ensure FastAPI is running on port 8000.';
+      errorMessage = 'Backend service is waking up or unreachable. Please wait a moment and try again.';
     } else {
       errorMessage = error.message;
     }
