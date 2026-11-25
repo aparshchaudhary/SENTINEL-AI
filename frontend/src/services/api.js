@@ -5,11 +5,7 @@
 
 import axios from 'axios';
 
-export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || (
-  import.meta.env.PROD
-    ? 'https://sentinel-ai-1-6k03.onrender.com/api/v1'
-    : 'http://127.0.0.1:8000/api/v1'
-);
+export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api/v1';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
