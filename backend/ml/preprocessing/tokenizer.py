@@ -45,8 +45,9 @@ class NLPPreprocessor:
     and lemmatization into a reusable pipeline.
     """
 
-    # Explicit negation words that MUST be preserved for accurate sentiment classification
+    # Explicit negation words and compound markers that MUST be preserved for accurate sentiment classification
     NEGATION_WORDS: Set[str] = {
+        # English negation markers
         "not",
         "no",
         "never",
@@ -57,6 +58,37 @@ class NLPPreprocessor:
         "scarcely",
         "none",
         "without",
+        # Hinglish negation markers
+        "nahi",
+        "nahin",
+        "ni",
+        "mat",
+        "na",
+        "nhi",
+        # Preserved compound tokens
+        "not_bad",
+        "not_good",
+        "not_happy",
+        "no_problem",
+        "nothing_special",
+        "nothing_more_nothing_less",
+        "incredible_disaster",
+        "complete_disaster",
+        "total_disaster",
+        "huge_disaster",
+        "nahi_pasand",
+        "nahi_achha",
+        "nahi_achhi",
+        "nahi_theek",
+        "kuch_khaas_nahi",
+        "koi_problem_nahi",
+        "koi_dikkat_nahi",
+        "bilkul_bekar",
+        "bilkul_nahi",
+        "paisa_waste",
+        "paisa_vasool",
+        "__emoji_pos__",
+        "__emoji_neg__",
     }
 
     def __init__(
@@ -115,13 +147,12 @@ class NLPPreprocessor:
             if len(token) < self.min_token_length and token not in self.NEGATION_WORDS:
                 continue
 
-            # 4. Filter stopwords while strictly preserving negations
-            if token in self.stop_words:
+            # 4. Filter stopwords while strictly preserving negations and compound sentiment markers
+            if token in self.stop_words and token not in self.NEGATION_WORDS:
                 continue
 
-            # 5. WordNet Lemmatization (nouns and verbs)
-            if self.use_lemmatization and self.lemmatizer:
-                # Lemmatize as verb first, then noun if unchanged
+            # 5. WordNet Lemmatization (nouns and verbs) applied strictly to standard ASCII tokens (not compound tokens or Devanagari)
+            if self.use_lemmatization and self.lemmatizer and token.isascii() and "_" not in token:
                 lemma = self.lemmatizer.lemmatize(token, pos=wordnet.VERB)
                 if lemma == token:
                     lemma = self.lemmatizer.lemmatize(token, pos=wordnet.NOUN)

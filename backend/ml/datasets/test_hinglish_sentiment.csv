@@ -1,0 +1,121 @@
+text,sentiment,category
+"Yaar, mujhe iska experience bahut pasand aaya.",positive,standard
+Bhai kya zabardast quality hai!,positive,standard
+Mujhe ye movie bahut achhi lagi.,positive,standard
+"Packing super thi aur delivery bhi time se pehle aayi, highly recommended!",positive,standard
+Lajawab service! Cabin crew bohot helpful tha.,positive,standard
+"Product ekdum mast hai, full paisa vasool!",positive,standard
+"Shandar experience raha, will definitely buy again.",positive,standard
+"Bahut badhiya performance hai is laptop ki, battery life super hai.",positive,standard
+Flight seats was very comfortable and staff was so sweet.,positive,code_mixed
+"Customer support ne 5 minute me mera issue resolve kar diya, awesome service!",positive,code_mixed
+"Ye phone price ke hisaab se best hai, camera quality shandar hai.",positive,standard
+Mujhe iska design aur build quality bohot pyara laga.,positive,standard
+"Ekdum first class product hai, koi kami nahi hai.",positive,negation_positive
+Mujhe is product se koi problem nahi hai.,positive,negation_positive
+"Koi shikayat ka mauka nahi mila, sab perfectly work kar raha hai.",positive,negation_positive
+"Isme koi kharabi nahi hai, totally smooth experience.",positive,negation_positive
+"Movie bilkul bhi bore nahi thi, full entertainment tha.",positive,negation_positive
+Not bad at all! I actually enjoyed it.,positive,english_negation
+"Overall experience bura nahi tha, balki kafi achha laga.",positive,negation_positive
+"Yeh device bilkul slow nahi chalta, speed zabardast hai.",positive,negation_positive
+"Bhai maza aa gaya, expectations se kahin zyada behtareen nikla!",positive,standard
+"Sound quality ek number hai, bass bohot deep hai.",positive,standard
+"Bahut hi pyara aur sundar product hai, loved it! ❤️",positive,emoji_positive
+"Food was so fresh and delicious, delivery boy was polite. 👍",positive,emoji_positive
+Yeh application bohot fast aur reliable hai.,positive,standard
+"Discount bhi tagda mila aur product bhi original hai, thank you!",positive,standard
+Staff was super courteous and boarding was completely hassle-free.,positive,code_mixed
+Camera itna shandar hai ki low light me bhi crystal clear photos aati hain.,positive,standard
+"Fabric quality is top notch, fitting ekdum perfect aayi hai.",positive,standard
+Screen quality lajawab hai aur touch response lightning fast hai.,positive,standard
+यह उत्पाद वास्तव में बहुत अच्छा और उपयोगी है।,positive,devanagari
+शानदार सेवा और बहुत ही मददगार कर्मचारी!,positive,devanagari
+"मुझे यह फोन बहुत पसंद आया, कैमरा बहुत बेहतरीन है।",positive,devanagari
+पैसा वसूल डील! इतनी कम कीमत में इतना बढ़िया सामान।,positive,devanagari
+"Koi dikkat nahi aayi, setup was instant and seamless.",positive,negation_positive
+"The delivery was late, but the product is fantastic.",positive,contrast_positive
+Thoda expensive hai par quality itni achhi hai ki regret nahi hota.,positive,contrast_positive
+Purana model thik tha lekin naya wala bohot zyada behtar hai.,positive,contrast_positive
+Staff thoda busy tha lekin unhone respectfully baat ki aur solve kiya.,positive,contrast_positive
+Airport par line lambi thi par flight staff ne bohot cooperate kiya.,positive,contrast_positive
+Mujhe ye product bilkul pasand nahi aaya.,negative,negation_negative
+Ye phone bilkul bekar hai.,negative,standard
+"Paise waste ho gaye, totally disappointed.",negative,code_mixed
+"Ghatiya quality hai, 2 din me toot gaya.",negative,standard
+"Bohot bekar service thi, luggage bhi transit me damage ho gaya.",negative,standard
+Kharab product bhej diya aur return request bhi reject kar di.,negative,standard
+"Bilkul bakwaas experience, staff ko baat karne ki tameez nahi hai.",negative,standard
+"Ekdum raddi quality hai, don't waste your hard earned money.",negative,standard
+"Customer support is useless, ghanto call hold pe rakha.",negative,code_mixed
+"Order cancel kar diya bina kisi notification ke, fraud app!",negative,standard
+"Food bilkul baasi tha aur smell aa rahi thi, disgusting!",negative,standard
+"Battery 2 ghante bhi nahi chalti, bohot zyada ghatiya phone hai.",negative,standard
+"Screen pe pehle se scratch the, duplicate piece lagta hai.",negative,standard
+Flight 4 ghante delay thi aur gate par paani tak nahi pucha.,negative,standard
+Size bilkul galat bheja aur exchange policy bohot irritating hai.,negative,standard
+"Never buying from this seller again, totally cheated.",negative,code_mixed
+Yeh product bilkul achha nahi hai.,negative,negation_negative
+"Service bilkul theek nahi hai, full time waste.",negative,negation_negative
+"Ye log sunte hi nahi hain, koi reply nahi milta.",negative,negation_negative
+"Camera bilkul bhi clear nahi hai, photos ekdum blur aati hain.",negative,negation_negative
+"Koi help nahi karta inka customer care, sab fake promises hain.",negative,negation_negative
+"Sound quality bilkul loud nahi hai, barely audible.",negative,negation_negative
+"Material soft nahi hai, bohot rough aur uncomfortable hai.",negative,negation_negative
+"Wah kya fast delivery hai, 3 hafte me parcel pahuncha! 👏",negative,sarcasm
+"Bohot zabardast service hai inki, 24 ghante me bag hi gayab kar diya!",negative,sarcasm
+Incredible disaster! Best way to waste your weekend.,negative,sarcasm
+"Kya baat hai, flight cancel karke kehte hain enjoy your day!",negative,sarcasm
+Superfast customer care! Sirf 45 din lagte hain ek email ka reply aane me.,negative,sarcasm
+Dukan band kar do agar aisi ghatiya service deni hai.,negative,standard
+"Refund abhi tak credit nahi hua, cheating company! 😡",negative,emoji_negative
+"Worst flight experience ever, turbulence me pilot ne koi announcement nahi ki.",negative,code_mixed
+Packaging fat chuki thi aur andar ka samaan gayab tha.,negative,standard
+"यह बिल्कुल बेकार और घटिया उत्पाद है, कोई मत खरीदना।",negative,devanagari
+"इतनी खराब सेवा मैंने आज तक नहीं देखी, बहुत निराशा हुई।",negative,devanagari
+"पैसे बर्बाद हो गए, सामान टूटा हुआ निकला।",negative,devanagari
+"कस्टमर केयर कोई जवाब नहीं देता, पूरी तरह फ्रॉड कंपनी।",negative,devanagari
+Experience achha tha lekin customer support bekar tha.,negative,contrast_negative
+Phone ka look achha hai par heating issue itna hai ki haath jalne lagta hai.,negative,contrast_negative
+Khaana theek tha lekin flight attendants bohot arrogant the.,negative,contrast_negative
+Discount to de diya par product bilkul defective bheja hai.,negative,contrast_negative
+"Product theek hai, nothing special.",neutral,standard
+"Service average thi, kuch khaas nahi.",neutral,standard
+"The scheduled flight UA104 departs at 4:15 PM from terminal 3, gate B12.",neutral,english_factual
+"It works exactly as described, nothing more, nothing less.",neutral,english_factual
+Can you please confirm if baggage claim carousel 4 is open?,neutral,english_inquiry
+"Yeh phone theek-thaak hai, price ke hisaab se normal laga.",neutral,standard
+"Delivery time pe aa gayi thi, parcel receive ho gaya.",neutral,standard
+Flight 2 baje land hogi ya delay hai? Please confirm.,neutral,inquiry
+Product ka size medium hai aur color grey hai.,neutral,factual
+Is device ka warranty period kitna hai?,neutral,inquiry
+"Maine 10 baje order place kiya tha, tracking update kab aayega?",neutral,inquiry
+"Item as shown in the picture, standard packing thi.",neutral,standard
+"Na zyada achha hai na zyada bura, bas chalta hai.",neutral,balance_neutral
+"Average performance hai, casual daily use ke liye theek hai.",neutral,standard
+Flight me sandwich aur coffee offer hui thi.,neutral,factual
+Seat number 14B economy class me window ke paas hai.,neutral,factual
+Boarding pass counter se lena padega ya online check-in chalega?,neutral,inquiry
+Isme 4GB RAM aur 64GB internal storage di gayi hai.,neutral,factual
+Delivery boy ne OTP verify karke package handover kiya.,neutral,factual
+Invoice email par attach kar diya gaya hai.,neutral,factual
+"Flight was on time, luggage claim me 15 minute lage.",neutral,factual
+Refund process 5 se 7 working days me complete hone ka message aaya hai.,neutral,factual
+The package was delivered yesterday at 10 AM.,neutral,english_factual
+Yeh model black aur blue do colors me available hai.,neutral,factual
+"Guzara ho jata hai, temporary use ke hisaab se ok hai.",neutral,standard
+"Normal product hai, jaisa price tha waisa hi mila.",neutral,standard
+Office work ke liye normal browsing easily ho jati hai.,neutral,standard
+Customer support ne bola ticket raise kar diya hai aur 24 hours me update aayega.,neutral,factual
+Flight Mumbai se 11:30 par take off karegi.,neutral,factual
+Pouch ke andar charging cable aur user manual shamil hai.,neutral,factual
+यह पार्सल कल शाम 5 बजे प्राप्त हुआ था।,neutral,devanagari
+फ्लाइट का समय 4:30 बजे निर्धारित किया गया है।,neutral,devanagari
+"उत्पाद ठीक-ठाक है, सामान्य इस्तेमाल के लिए उपयुक्त है।",neutral,devanagari
+क्या आप बता सकते हैं कि वारंटी क्लेम कैसे करना है?,neutral,devanagari
+"Price na kam hai na zyada, market rate ke barabar hai.",neutral,balance_neutral
+"Neither good nor bad, does the basic job.",neutral,balance_neutral
+"Neither very fast nor sluggish, average response time.",neutral,balance_neutral
+"Battery na to bohot jaldi khatam hoti hai na bohot der chalti hai, average hai.",neutral,balance_neutral
+"Packing standard corrugated box me thi, seal intact thi.",neutral,factual
+"The food was delicious, although the staff was rude.",neutral,contrast_mixed

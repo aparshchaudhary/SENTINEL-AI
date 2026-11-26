@@ -45,6 +45,18 @@ const SAMPLE_TEXTS = [
     label: 'Mixed Experience',
     text: 'The cabin attendants were polite and friendly, but the entertainment screens were broken and the legroom was uncomfortably small.',
   },
+  {
+    label: 'Hinglish Positive',
+    text: 'Bhai kya zabardast quality hai! Yaar, mujhe iska experience bahut pasand aaya.',
+  },
+  {
+    label: 'Hinglish Negative',
+    text: 'Ye phone bilkul bekar hai, paise waste ho gaye totally disappointed.',
+  },
+  {
+    label: 'Hinglish Neutral',
+    text: 'Product theek hai, nothing special. Service average thi, kuch khaas nahi.',
+  },
 ];
 
 export const LiveAnalyzer = () => {
