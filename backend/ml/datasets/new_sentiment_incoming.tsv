@@ -1,0 +1,1046 @@
+id	text	sentiment	language	source	recommended_use	domain
+SNT-00001	I absolutely love this product; it works perfectly.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00002	The service was excellent and the staff were helpful.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00003	This is one of the best experiences I have had.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00004	The quality is outstanding and worth every rupee.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00005	Everything arrived on time and in perfect condition.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00006	I am really happy with my purchase.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00007	The app is easy to use and works smoothly.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00008	Fantastic customer support; my issue was solved quickly.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00009	The food tasted delicious and fresh.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00010	I would happily recommend this to my friends.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00011	Not bad at all; I actually enjoyed it.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00012	I expected average quality, but this is brilliant.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00013	The team handled everything professionally.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00014	I am completely satisfied with the results.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00015	Despite the low price, the quality is surprisingly good.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00016	Bhai, ye product sach mein bahut mast hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00017	Yaar, mujhe iska experience bahut pasand aaya.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00018	Iski quality ekdum zabardast hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00019	Service bahut achhi thi, staff bhi helpful tha.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00020	Mujhe ye app use karna kaafi easy laga.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00021	Paise vasool product hai, definitely recommend karunga.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00022	Delivery time par aa gayi aur packing bhi badhiya thi.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00023	Bhai kya shandar performance hai!	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00024	Mera issue support team ne jaldi solve kar diya.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00025	Food ka taste awesome tha, maza aa gaya.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00026	Ye phone expected se bhi better nikla.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00027	Mujhe is service se koi complaint nahi hai, sab perfect tha.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00028	Experience smooth tha aur interface bhi clean hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00029	Mujhe laga average hoga, but ye toh excellent nikla.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00030	Bilkul worth it, main dobara bhi buy karunga.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00031	This is the worst product I have ever purchased.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00032	The service was terrible and nobody helped me.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00033	I am extremely disappointed with the poor quality.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00034	The delivery was late and the package was damaged.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00035	The app keeps crashing and is frustrating to use.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00036	Customer support ignored my messages.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00037	This was a complete waste of money.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00038	The food was cold, tasteless, and overpriced.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00039	Nothing worked as promised.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00040	I regret buying this product.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00041	Great, another failure from this useless service.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00042	The product is not worth the price at all.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00043	The staff were rude and unprofessional.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00044	I will never recommend this service.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00045	The experience was frustrating and disappointing.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00046	Bhai, ye product bilkul bekar hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00047	Mujhe ye product bilkul pasand nahi aaya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00048	Service bahut kharab thi, totally disappointed.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00049	Itna paisa diya aur quality itni ghatiya hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00050	Yaar, app baar baar crash ho rahi hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00051	Customer support ne meri ek bhi nahi suni.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00052	Delivery late thi aur parcel damaged mila.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00053	Is product par paise waste ho gaye.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00054	Staff ka behaviour bahut rude tha.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00055	Food thanda tha aur taste bhi bekar tha.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00056	Phone ek din mein hi kharab ho gaya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00057	Mera issue abhi tak solve nahi hua.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00058	Ye app use karna bahut frustrating hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00059	Mujhe is service se bahut nirasha hui.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00060	Na quality achhi hai na service, dono bekar hain.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00061	The package arrived yesterday afternoon.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00062	The product is available in three different colours.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00063	I used the application for about ten minutes.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00064	The order contains two items and one receipt.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00065	The meeting is scheduled for Monday morning.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00066	The phone has a 6.5-inch display.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00067	The delivery status changed to shipped today.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00068	The store opens at nine and closes at six.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00069	The product comes with a one-year warranty.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00070	The application has a search bar and settings page.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00071	The device weighs approximately 180 grams.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00072	The order was placed through the website.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00073	The package includes a charger and a user manual.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00074	I have not tried the new version yet.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00075	The service was average and met the basic requirement.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00076	Product theek hai, nothing special.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00077	Maine aaj ye app install kiya hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00078	Parcel kal dopahar ko deliver hua.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00079	Is phone mein 128 GB storage hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00080	Order website se place kiya tha.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00081	Store subah nau baje khulta hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00082	Maine product abhi tak use nahi kiya.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00083	Package mein charger aur manual dono hain.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00084	Meeting Monday ko schedule hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00085	App ke settings section mein language option hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00086	Product ka size medium hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00087	Mujhe order confirmation ka message mila hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00088	Is model ke do variants available hain.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00089	Service average thi, koi khaas baat nahi.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00090	Ye normal hai, na bahut achha na bahut bura.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00091	I am delighted with how well this works.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00092	The staff were kind, attentive, and efficient.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00093	Setup was simple and the instructions were clear.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00094	The replacement arrived quickly and works perfectly.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00095	This service made my day much easier.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00096	The picture quality is crisp and impressive.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00097	Every feature works smoothly without any trouble.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00098	I received exactly what I ordered and I am pleased.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00099	The team went above and beyond to help me.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00100	The results were better than I expected.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00101	An excellent experience from the first step to the last.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00102	The material feels durable and well made.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00103	I appreciate the quick and thoughtful response.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00104	The interface is clean, simple, and convenient.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00105	The repair was completed faster than promised.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00106	I had no trouble getting started with the product.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00107	The taste was fresh and the portion was generous.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00108	This is dependable and genuinely good value.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00109	I am pleased with the improvements in the latest version.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00110	The staff listened carefully and resolved my concern.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00111	Yeh product kaafi achha hai, main khush hoon.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00112	Mujhe iska design aur performance dono pasand aaye.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00113	Service ekdum smooth thi, koi dikkat nahi hui.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00114	Team ne meri problem turant solve kar di.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00115	Is price mein quality bahut badhiya hai.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00116	Delivery jaldi aa gayi aur product safe tha.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00117	App chalana easy hai aur features useful hain.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00118	Bahut hi satisfying experience raha.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00119	Staff ne politely baat ki aur achhi help ki.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00120	Result meri expectation se bhi better nikla.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00121	Product solid hai, daily use ke liye perfect.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00122	Mujhe iska latest update kaafi pasand aaya.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00123	Food fresh tha aur taste lajawab tha.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00124	Kaam bilkul sahi hua, paisa vasool.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00125	Is baar customer support ne genuinely help ki.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00126	Phone ki battery backup kaafi achhi hai.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00127	Website fast hai aur navigation simple hai.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00128	Overall experience bahut positive raha.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00129	Quality dekh kar main genuinely impressed hoon.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00130	Main is service ko apne friends ko recommend karunga.	positive	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00131	The product failed after only two uses.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00132	I am unhappy with the delay and lack of updates.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00133	The instructions were unclear and difficult to follow.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00134	The website is slow and frequently stops responding.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00135	The staff did not listen to my concern.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00136	The packaging was damaged and the item was scratched.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00137	I paid extra but received no additional service.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00138	The repair did not fix the original problem.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00139	The food was stale and poorly prepared.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00140	The app is confusing and frustrating.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00141	I cannot recommend something this unreliable.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00142	The quality is much worse than the description suggests.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00143	My complaint has been ignored for several days.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00144	The battery drains far too quickly.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00145	The replacement was also defective.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00146	The process was unnecessarily complicated.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00147	The response was rude and completely unhelpful.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00148	The product is overpriced for what it offers.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00149	I regret spending my money on this.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00150	The service has become slower and less reliable.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00151	Yeh phone baar baar hang hota hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00152	Product ki finishing bahut kharab hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00153	Meri complaint par kisi ne dhyan nahi diya.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00154	Delivery itni late thi ki order cancel karna pada.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00155	Customer care ne bas wait karne ko kaha, solution nahi diya.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00156	Is app mein har waqt error aata hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00157	Paise poore liye par service bilkul nahi di.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00158	Quality description se bahut alag nikli.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00159	Food basi tha aur smell bhi aa rahi thi.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00160	Battery kuch ghanton mein hi khatam ho jaati hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00161	Staff ka response rude aur unprofessional tha.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00162	Repair ke baad bhi problem solve nahi hui.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00163	Website open hi nahi ho rahi, bahut irritating hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00164	Product do din mein kharab ho gaya.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00165	Is company se dobara kuch nahi kharidunga.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00166	Order galat bheja aur replacement bhi nahi diya.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00167	Experience itna kharab tha ki main disappointed hoon.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00168	Price zyada hai aur quality bilkul low hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00169	Support team ne mujhe baar baar ignore kiya.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00170	Yeh service time aur paise dono waste karti hai.	negative	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00171	The order number is printed on the confirmation email.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00172	The device supports wireless connectivity.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00173	The shop has moved to a different street.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00174	I selected the standard delivery option.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00175	The account was created last week.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00176	The product is available in small and large sizes.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00177	The application asks for an email address at sign-in.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00178	The package contains a cable and an adapter.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00179	The appointment is booked for 3:30 PM.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00180	The invoice was sent as a PDF attachment.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00181	The website has separate sections for products and support.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00182	The device was connected to the laptop using a cable.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00183	The order includes a standard twelve-month warranty.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00184	The store accepts cash and card payments.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00185	The latest version was released in October.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00186	The form has fields for name, email, and phone number.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00187	The product dimensions are listed on the label.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00188	The delivery address was updated in my account.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00189	The menu includes breakfast, lunch, and dinner options.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00190	The manual is available in two languages.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00191	Is model mein teen storage options hain.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00192	Maine account kal create kiya tha.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00193	Parcel mein ek cable aur adapter mila.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00194	Appointment shaam chaar baje ki hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00195	Website par product ki details di hui hain.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00196	Order ka status abhi shipped show ho raha hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00197	Phone mein dual SIM ka option hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00198	Form mein naam aur email bharna hota hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00199	Store Sunday ko bhi open rehta hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00200	Is pack mein do items included hain.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00201	Application Android aur iOS dono par available hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00202	Payment UPI ke through ki gayi thi.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00203	Delivery address account mein saved hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00204	Meeting ka link email par bheja gaya hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00205	Product ka weight lagbhag 500 gram hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00206	Is plan ki validity 30 days hai.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00207	Mainne standard version select kiya tha.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00208	Receipt order ke saath attach thi.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00209	Website par teen language options hain.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00210	Package aaj subah receive hua.	neutral	English	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00211	Yeh headphones ki sound quality kamaal ki hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00212	App ka interface simple hai, use karne mein maza aata hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00213	Staff ne patiently meri saari queries solve ki.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00214	Product lightweight hai aur performance bhi smooth hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00215	Delivery expected date se pehle aa gayi.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00216	Is restaurant ka khana bahut tasty hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00217	Camera low light mein bhi achha result deta hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00218	Update ke baad app aur fast ho gayi.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00219	Customer support ne excellent service di.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00220	Design classy hai aur build quality strong hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00221	Mujhe iska result dekh kar bahut khushi hui.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00222	Installation easy thi, bas kuch minutes lage.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00223	Team ka response quick aur helpful tha.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00224	Yeh purchase mere liye worth it raha.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00225	Battery backup expected se kaafi better hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00226	Product daily use ke liye ekdum perfect hai.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00227	Website par sab kuch easily mil gaya.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00228	Service ne meri expectation exceed kar di.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00229	Packing neat thi aur item bilkul safe mila.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00230	Overall, experience bahut hi satisfying raha.	positive	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00231	Is laptop ki performance bahut slow hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00232	Product ka material cheap quality ka lagta hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00233	Payment cut gaya lekin order confirm nahi hua.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00234	App login karte hi crash ho jaati hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00235	Delivery wale ne parcel damaged condition mein diya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00236	Support team se koi proper jawab nahi mila.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00237	Is product ki battery bilkul nahi chalti.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00238	Food cold tha aur order bhi incomplete tha.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00239	Website par payment karna bahut difficult hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00240	Price ke hisaab se product disappointing hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00241	Staff ne meri baat sunne se mana kar diya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00242	Har baar use karne par naya error aa jata hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00243	Replacement abhi tak receive nahi hua.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00244	Is service ne mera kaafi time waste kiya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00245	Quality itni poor hai ki product use nahi hota.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00246	Order cancel kiya par refund nahi aaya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00247	Phone ka camera expected se bahut bekar hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00248	Instructions samajh nahi aayi aur setup fail ho gaya.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00249	Customer care ne call disconnect kar di.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00250	Yeh purchase karke mujhe regret ho raha hai.	negative	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00251	Phone ka colour blue hai aur storage 256 GB hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00252	Maine order kal raat place kiya tha.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00253	App mein profile update karne ka option hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00254	Parcel abhi delivery centre par hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00255	Is product ke saath user manual milta hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00256	Store ka address website par diya hua hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00257	Plan ki monthly fee 299 rupees hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00258	Meeting ka time calendar mein update hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00259	Phone Android version 14 par run karta hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00260	Package mein total teen accessories hain.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00261	Mainne medium size select kiya hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00262	Order number message mein mention hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00263	Application mein dark mode ka option available hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00264	Delivery ka status out for delivery hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00265	Is model ka launch pichhle mahine hua tha.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00266	Form submit karne ke baad confirmation aata hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00267	Product ka colour aur size select kar sakte ho.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00268	Payment cash on delivery choose ki thi.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00269	Website par return policy listed hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00270	Mainne abhi tak iska review nahi diya hai.	neutral	Hinglish	synthetic_curated_seed	review_before_training	mixed_or_unspecified
+SNT-00271	I absolutely loved the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00272	I absolutely loved the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00273	I absolutely loved the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00274	I absolutely loved the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00275	I absolutely loved the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00276	I absolutely loved the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00277	I absolutely loved the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00278	I absolutely loved the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00279	I absolutely loved the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00280	I absolutely loved the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00281	I am genuinely happy with the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00282	I am genuinely happy with the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00283	I am genuinely happy with the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00284	I am genuinely happy with the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00285	I am genuinely happy with the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00286	I am genuinely happy with the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00287	I am genuinely happy with the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00288	I am genuinely happy with the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00289	I am genuinely happy with the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00290	I am genuinely happy with the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00291	The headphones exceeded my expectations. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00292	The headphones exceeded my expectations. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00293	The headphones exceeded my expectations. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00294	The headphones exceeded my expectations. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00295	The headphones exceeded my expectations. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00296	The headphones exceeded my expectations. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00297	The headphones exceeded my expectations. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00298	The headphones exceeded my expectations. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00299	The headphones exceeded my expectations. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00300	The headphones exceeded my expectations. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00301	I had a wonderful experience with the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00302	I had a wonderful experience with the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00303	I had a wonderful experience with the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00304	I had a wonderful experience with the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00305	I had a wonderful experience with the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00306	I had a wonderful experience with the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00307	I had a wonderful experience with the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00308	I had a wonderful experience with the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00309	I had a wonderful experience with the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00310	I had a wonderful experience with the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00311	I would happily recommend the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00312	I would happily recommend the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00313	I would happily recommend the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00314	I would happily recommend the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00315	I would happily recommend the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00316	I would happily recommend the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00317	I would happily recommend the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00318	I would happily recommend the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00319	I would happily recommend the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00320	I would happily recommend the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00321	I am impressed by the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00322	I am impressed by the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00323	I am impressed by the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00324	I am impressed by the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00325	I am impressed by the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00326	I am impressed by the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00327	I am impressed by the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00328	I am impressed by the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00329	I am impressed by the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00330	I am impressed by the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00331	The headphones worked perfectly for me. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00332	The headphones worked perfectly for me. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00333	The headphones worked perfectly for me. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00334	The headphones worked perfectly for me. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00335	The headphones worked perfectly for me. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00336	The headphones worked perfectly for me. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00337	The headphones worked perfectly for me. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00338	The headphones worked perfectly for me. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00339	The headphones worked perfectly for me. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00340	The headphones worked perfectly for me. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00341	Everything about the headphones was excellent. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00342	Everything about the headphones was excellent. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00343	Everything about the headphones was excellent. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00344	Everything about the headphones was excellent. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00345	Everything about the headphones was excellent. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00346	Everything about the headphones was excellent. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00347	Everything about the headphones was excellent. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00348	Everything about the headphones was excellent. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00349	Everything about the headphones was excellent. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00350	Everything about the headphones was excellent. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00351	I could not be more pleased with the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00352	I could not be more pleased with the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00353	I could not be more pleased with the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00354	I could not be more pleased with the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00355	I could not be more pleased with the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00356	I could not be more pleased with the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00357	I could not be more pleased with the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00358	I could not be more pleased with the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00359	I could not be more pleased with the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00360	I could not be more pleased with the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00361	I am very satisfied with the headphones. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00362	I am very satisfied with the headphones. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00363	I am very satisfied with the headphones. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00364	I am very satisfied with the headphones. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00365	I am very satisfied with the headphones. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00366	I am very satisfied with the headphones. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00367	I am very satisfied with the headphones. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00368	I am very satisfied with the headphones. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00369	I am very satisfied with the headphones. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00370	I am very satisfied with the headphones. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00371	I absolutely loved the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00372	I absolutely loved the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00373	I absolutely loved the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00374	I absolutely loved the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00375	I absolutely loved the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00376	I absolutely loved the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00377	I absolutely loved the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00378	I absolutely loved the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00379	I absolutely loved the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00380	I absolutely loved the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00381	I am genuinely happy with the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00382	I am genuinely happy with the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00383	I am genuinely happy with the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00384	I am genuinely happy with the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00385	I am genuinely happy with the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00386	I am genuinely happy with the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00387	I am genuinely happy with the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00388	I am genuinely happy with the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00389	I am genuinely happy with the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00390	I am genuinely happy with the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00391	The jacket exceeded my expectations. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00392	The jacket exceeded my expectations. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00393	The jacket exceeded my expectations. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00394	The jacket exceeded my expectations. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00395	The jacket exceeded my expectations. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00396	The jacket exceeded my expectations. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00397	The jacket exceeded my expectations. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00398	The jacket exceeded my expectations. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00399	The jacket exceeded my expectations. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00400	The jacket exceeded my expectations. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00401	I had a wonderful experience with the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00402	I had a wonderful experience with the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00403	I had a wonderful experience with the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00404	I had a wonderful experience with the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00405	I had a wonderful experience with the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00406	I had a wonderful experience with the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00407	I had a wonderful experience with the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00408	I had a wonderful experience with the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00409	I had a wonderful experience with the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00410	I had a wonderful experience with the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00411	I would happily recommend the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00412	I would happily recommend the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00413	I would happily recommend the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00414	I would happily recommend the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00415	I would happily recommend the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00416	I would happily recommend the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00417	I would happily recommend the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00418	I would happily recommend the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00419	I would happily recommend the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00420	I would happily recommend the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00421	I am impressed by the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00422	I am impressed by the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00423	I am impressed by the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00424	I am impressed by the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00425	I am impressed by the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00426	I am impressed by the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00427	I am impressed by the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00428	I am impressed by the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00429	I am impressed by the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00430	I am impressed by the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00431	The jacket worked perfectly for me. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00432	The jacket worked perfectly for me. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00433	The jacket worked perfectly for me. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00434	The jacket worked perfectly for me. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00435	The jacket worked perfectly for me. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00436	The jacket worked perfectly for me. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00437	The jacket worked perfectly for me. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00438	The jacket worked perfectly for me. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00439	The jacket worked perfectly for me. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00440	The jacket worked perfectly for me. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00441	Everything about the jacket was excellent. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00442	Everything about the jacket was excellent. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00443	Everything about the jacket was excellent. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00444	Everything about the jacket was excellent. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00445	Everything about the jacket was excellent. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00446	Everything about the jacket was excellent. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00447	Everything about the jacket was excellent. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00448	Everything about the jacket was excellent. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00449	Everything about the jacket was excellent. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00450	Everything about the jacket was excellent. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00451	I could not be more pleased with the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00452	I could not be more pleased with the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00453	I could not be more pleased with the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00454	I could not be more pleased with the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00455	I could not be more pleased with the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00456	I could not be more pleased with the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00457	I could not be more pleased with the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00458	I could not be more pleased with the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00459	I could not be more pleased with the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00460	I could not be more pleased with the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00461	I am very satisfied with the jacket. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00462	I am very satisfied with the jacket. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00463	I am very satisfied with the jacket. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00464	I am very satisfied with the jacket. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00465	I am very satisfied with the jacket. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00466	I am very satisfied with the jacket. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00467	I am very satisfied with the jacket. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00468	I am very satisfied with the jacket. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00469	I am very satisfied with the jacket. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00470	I am very satisfied with the jacket. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00471	I absolutely loved the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00472	I absolutely loved the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00473	I absolutely loved the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00474	I absolutely loved the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00475	I absolutely loved the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00476	I absolutely loved the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00477	I absolutely loved the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00478	I absolutely loved the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00479	I absolutely loved the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00480	I absolutely loved the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00481	I am genuinely happy with the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00482	I am genuinely happy with the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00483	I am genuinely happy with the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00484	I am genuinely happy with the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00485	I am genuinely happy with the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00486	I am genuinely happy with the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00487	I am genuinely happy with the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00488	I am genuinely happy with the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00489	I am genuinely happy with the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00490	I am genuinely happy with the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00491	The order exceeded my expectations. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00492	The order exceeded my expectations. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00493	The order exceeded my expectations. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00494	The order exceeded my expectations. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00495	The order exceeded my expectations. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00496	The order exceeded my expectations. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00497	The order exceeded my expectations. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00498	The order exceeded my expectations. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00499	The order exceeded my expectations. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00500	The order exceeded my expectations. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00501	I had a wonderful experience with the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00502	I had a wonderful experience with the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00503	I had a wonderful experience with the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00504	I had a wonderful experience with the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00505	I had a wonderful experience with the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00506	I had a wonderful experience with the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00507	I had a wonderful experience with the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00508	I had a wonderful experience with the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00509	I had a wonderful experience with the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00510	I had a wonderful experience with the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00511	I would happily recommend the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00512	I would happily recommend the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00513	I would happily recommend the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00514	I would happily recommend the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00515	I would happily recommend the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00516	I would happily recommend the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00517	I would happily recommend the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00518	I would happily recommend the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00519	I would happily recommend the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00520	I would happily recommend the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00521	I am impressed by the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00522	I am impressed by the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00523	I am impressed by the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00524	I am impressed by the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00525	I am impressed by the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00526	I am impressed by the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00527	I am impressed by the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00528	I am impressed by the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00529	I am impressed by the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00530	I am impressed by the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00531	The order worked perfectly for me. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00532	The order worked perfectly for me. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00533	The order worked perfectly for me. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00534	The order worked perfectly for me. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00535	The order worked perfectly for me. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00536	The order worked perfectly for me. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00537	The order worked perfectly for me. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00538	The order worked perfectly for me. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00539	The order worked perfectly for me. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00540	The order worked perfectly for me. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00541	Everything about the order was excellent. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00542	Everything about the order was excellent. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00543	Everything about the order was excellent. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00544	Everything about the order was excellent. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00545	Everything about the order was excellent. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00546	Everything about the order was excellent. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00547	Everything about the order was excellent. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00548	Everything about the order was excellent. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00549	Everything about the order was excellent. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00550	Everything about the order was excellent. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00551	I could not be more pleased with the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00552	I could not be more pleased with the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00553	I could not be more pleased with the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00554	I could not be more pleased with the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00555	I could not be more pleased with the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00556	I could not be more pleased with the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00557	I could not be more pleased with the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00558	I could not be more pleased with the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00559	I could not be more pleased with the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00560	I could not be more pleased with the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00561	I am very satisfied with the order. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00562	I am very satisfied with the order. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00563	I am very satisfied with the order. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00564	I am very satisfied with the order. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00565	I am very satisfied with the order. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00566	I am very satisfied with the order. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00567	I am very satisfied with the order. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00568	I am very satisfied with the order. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00569	I am very satisfied with the order. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00570	I am very satisfied with the order. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00571	I absolutely loved the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00572	I absolutely loved the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00573	I absolutely loved the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00574	I absolutely loved the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00575	I absolutely loved the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00576	I absolutely loved the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00577	I absolutely loved the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00578	I absolutely loved the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00579	I absolutely loved the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00580	I absolutely loved the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00581	I am genuinely happy with the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00582	I am genuinely happy with the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00583	I am genuinely happy with the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00584	I am genuinely happy with the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00585	I am genuinely happy with the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00586	I am genuinely happy with the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00587	I am genuinely happy with the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00588	I am genuinely happy with the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00589	I am genuinely happy with the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00590	I am genuinely happy with the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00591	The replacement item exceeded my expectations. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00592	The replacement item exceeded my expectations. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00593	The replacement item exceeded my expectations. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00594	The replacement item exceeded my expectations. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00595	The replacement item exceeded my expectations. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00596	The replacement item exceeded my expectations. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00597	The replacement item exceeded my expectations. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00598	The replacement item exceeded my expectations. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00599	The replacement item exceeded my expectations. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00600	The replacement item exceeded my expectations. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00601	I had a wonderful experience with the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00602	I had a wonderful experience with the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00603	I had a wonderful experience with the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00604	I had a wonderful experience with the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00605	I had a wonderful experience with the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00606	I had a wonderful experience with the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00607	I had a wonderful experience with the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00608	I had a wonderful experience with the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00609	I had a wonderful experience with the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00610	I had a wonderful experience with the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00611	I would happily recommend the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00612	I would happily recommend the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00613	I would happily recommend the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00614	I would happily recommend the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00615	I would happily recommend the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00616	I would happily recommend the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00617	I would happily recommend the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00618	I would happily recommend the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00619	I would happily recommend the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00620	I would happily recommend the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00621	I am impressed by the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00622	I am impressed by the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00623	I am impressed by the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00624	I am impressed by the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00625	I am impressed by the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00626	I am impressed by the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00627	I am impressed by the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00628	I am impressed by the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00629	I am impressed by the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00630	I am impressed by the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00631	The replacement item worked perfectly for me. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00632	The replacement item worked perfectly for me. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00633	The replacement item worked perfectly for me. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00634	The replacement item worked perfectly for me. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00635	The replacement item worked perfectly for me. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00636	The replacement item worked perfectly for me. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00637	The replacement item worked perfectly for me. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00638	The replacement item worked perfectly for me. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00639	The replacement item worked perfectly for me. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00640	The replacement item worked perfectly for me. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00641	Everything about the replacement item was excellent. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00642	Everything about the replacement item was excellent. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00643	Everything about the replacement item was excellent. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00644	Everything about the replacement item was excellent. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00645	Everything about the replacement item was excellent. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00646	Everything about the replacement item was excellent. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00647	Everything about the replacement item was excellent. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00648	Everything about the replacement item was excellent. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00649	Everything about the replacement item was excellent. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00650	Everything about the replacement item was excellent. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00651	I could not be more pleased with the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00652	I could not be more pleased with the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00653	I could not be more pleased with the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00654	I could not be more pleased with the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00655	I could not be more pleased with the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00656	I could not be more pleased with the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00657	I could not be more pleased with the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00658	I could not be more pleased with the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00659	I could not be more pleased with the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00660	I could not be more pleased with the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00661	I am very satisfied with the replacement item. The staff were friendly and helpful. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00662	I am very satisfied with the replacement item. The staff were friendly and helpful. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00663	I am very satisfied with the replacement item. It was delivered earlier than expected. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00664	I am very satisfied with the replacement item. It was delivered earlier than expected. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00665	I am very satisfied with the replacement item. The quality was better than I had hoped. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00666	I am very satisfied with the replacement item. The quality was better than I had hoped. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00667	I am very satisfied with the replacement item. The instructions were clear and easy to follow. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00668	I am very satisfied with the replacement item. The instructions were clear and easy to follow. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00669	I am very satisfied with the replacement item. Everything worked on the first attempt. I am pleased with the result.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00670	I am very satisfied with the replacement item. Everything worked on the first attempt. That was a great experience.	positive	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00671	I am really disappointed with the headphones. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00672	I am really disappointed with the headphones. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00673	I am really disappointed with the headphones. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00674	I am really disappointed with the headphones. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00675	I am really disappointed with the headphones. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00676	I am really disappointed with the headphones. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00677	I am really disappointed with the headphones. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00678	I am really disappointed with the headphones. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00679	I am really disappointed with the headphones. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00680	I am really disappointed with the headphones. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00681	I had a terrible experience with the headphones. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00682	I had a terrible experience with the headphones. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00683	I had a terrible experience with the headphones. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00684	I had a terrible experience with the headphones. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00685	I had a terrible experience with the headphones. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00686	I had a terrible experience with the headphones. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00687	I had a terrible experience with the headphones. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00688	I had a terrible experience with the headphones. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00689	I had a terrible experience with the headphones. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00690	I had a terrible experience with the headphones. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00691	The headphones was far below my expectations. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00692	The headphones was far below my expectations. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00693	The headphones was far below my expectations. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00694	The headphones was far below my expectations. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00695	The headphones was far below my expectations. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00696	The headphones was far below my expectations. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00697	The headphones was far below my expectations. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00698	The headphones was far below my expectations. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00699	The headphones was far below my expectations. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00700	The headphones was far below my expectations. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00701	I would not recommend the headphones. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00702	I would not recommend the headphones. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00703	I would not recommend the headphones. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00704	I would not recommend the headphones. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00705	I would not recommend the headphones. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00706	I would not recommend the headphones. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00707	I would not recommend the headphones. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00708	I would not recommend the headphones. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00709	I would not recommend the headphones. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00710	I would not recommend the headphones. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00711	I regret choosing the headphones. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00712	I regret choosing the headphones. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00713	I regret choosing the headphones. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00714	I regret choosing the headphones. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00715	I regret choosing the headphones. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00716	I regret choosing the headphones. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00717	I regret choosing the headphones. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00718	I regret choosing the headphones. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00719	I regret choosing the headphones. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00720	I regret choosing the headphones. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00721	Nothing about the headphones worked properly. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00722	Nothing about the headphones worked properly. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00723	Nothing about the headphones worked properly. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00724	Nothing about the headphones worked properly. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00725	Nothing about the headphones worked properly. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00726	Nothing about the headphones worked properly. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00727	Nothing about the headphones worked properly. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00728	Nothing about the headphones worked properly. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00729	Nothing about the headphones worked properly. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00730	Nothing about the headphones worked properly. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00731	The headphones caused me a lot of frustration. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00732	The headphones caused me a lot of frustration. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00733	The headphones caused me a lot of frustration. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00734	The headphones caused me a lot of frustration. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00735	The headphones caused me a lot of frustration. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00736	The headphones caused me a lot of frustration. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00737	The headphones caused me a lot of frustration. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00738	The headphones caused me a lot of frustration. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00739	The headphones caused me a lot of frustration. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00740	The headphones caused me a lot of frustration. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00741	I am unhappy with the quality of the headphones. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00742	I am unhappy with the quality of the headphones. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00743	I am unhappy with the quality of the headphones. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00744	I am unhappy with the quality of the headphones. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00745	I am unhappy with the quality of the headphones. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00746	I am unhappy with the quality of the headphones. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00747	I am unhappy with the quality of the headphones. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00748	I am unhappy with the quality of the headphones. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00749	I am unhappy with the quality of the headphones. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00750	I am unhappy with the quality of the headphones. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00751	I expected much better from the headphones. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00752	I expected much better from the headphones. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00753	I expected much better from the headphones. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00754	I expected much better from the headphones. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00755	I expected much better from the headphones. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00756	I expected much better from the headphones. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00757	I expected much better from the headphones. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00758	I expected much better from the headphones. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00759	I expected much better from the headphones. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00760	I expected much better from the headphones. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00761	I would avoid the headphones next time. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00762	I would avoid the headphones next time. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00763	I would avoid the headphones next time. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00764	I would avoid the headphones next time. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00765	I would avoid the headphones next time. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00766	I would avoid the headphones next time. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00767	I would avoid the headphones next time. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00768	I would avoid the headphones next time. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00769	I would avoid the headphones next time. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00770	I would avoid the headphones next time. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00771	I am really disappointed with the jacket. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00772	I am really disappointed with the jacket. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00773	I am really disappointed with the jacket. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00774	I am really disappointed with the jacket. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00775	I am really disappointed with the jacket. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00776	I am really disappointed with the jacket. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00777	I am really disappointed with the jacket. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00778	I am really disappointed with the jacket. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00779	I am really disappointed with the jacket. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00780	I am really disappointed with the jacket. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00781	I had a terrible experience with the jacket. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00782	I had a terrible experience with the jacket. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00783	I had a terrible experience with the jacket. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00784	I had a terrible experience with the jacket. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00785	I had a terrible experience with the jacket. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00786	I had a terrible experience with the jacket. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00787	I had a terrible experience with the jacket. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00788	I had a terrible experience with the jacket. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00789	I had a terrible experience with the jacket. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00790	I had a terrible experience with the jacket. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00791	The jacket was far below my expectations. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00792	The jacket was far below my expectations. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00793	The jacket was far below my expectations. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00794	The jacket was far below my expectations. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00795	The jacket was far below my expectations. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00796	The jacket was far below my expectations. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00797	The jacket was far below my expectations. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00798	The jacket was far below my expectations. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00799	The jacket was far below my expectations. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00800	The jacket was far below my expectations. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00801	I would not recommend the jacket. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00802	I would not recommend the jacket. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00803	I would not recommend the jacket. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00804	I would not recommend the jacket. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00805	I would not recommend the jacket. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00806	I would not recommend the jacket. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00807	I would not recommend the jacket. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00808	I would not recommend the jacket. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00809	I would not recommend the jacket. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00810	I would not recommend the jacket. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00811	I regret choosing the jacket. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00812	I regret choosing the jacket. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00813	I regret choosing the jacket. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00814	I regret choosing the jacket. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00815	I regret choosing the jacket. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00816	I regret choosing the jacket. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00817	I regret choosing the jacket. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00818	I regret choosing the jacket. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00819	I regret choosing the jacket. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00820	I regret choosing the jacket. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00821	Nothing about the jacket worked properly. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00822	Nothing about the jacket worked properly. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00823	Nothing about the jacket worked properly. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00824	Nothing about the jacket worked properly. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00825	Nothing about the jacket worked properly. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00826	Nothing about the jacket worked properly. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00827	Nothing about the jacket worked properly. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00828	Nothing about the jacket worked properly. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00829	Nothing about the jacket worked properly. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00830	Nothing about the jacket worked properly. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00831	The jacket caused me a lot of frustration. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00832	The jacket caused me a lot of frustration. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00833	The jacket caused me a lot of frustration. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00834	The jacket caused me a lot of frustration. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00835	The jacket caused me a lot of frustration. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00836	The jacket caused me a lot of frustration. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00837	The jacket caused me a lot of frustration. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00838	The jacket caused me a lot of frustration. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00839	The jacket caused me a lot of frustration. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00840	The jacket caused me a lot of frustration. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00841	I am unhappy with the quality of the jacket. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00842	I am unhappy with the quality of the jacket. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00843	I am unhappy with the quality of the jacket. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00844	I am unhappy with the quality of the jacket. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00845	I am unhappy with the quality of the jacket. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00846	I am unhappy with the quality of the jacket. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00847	I am unhappy with the quality of the jacket. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00848	I am unhappy with the quality of the jacket. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00849	I am unhappy with the quality of the jacket. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00850	I am unhappy with the quality of the jacket. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00851	I expected much better from the jacket. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00852	I expected much better from the jacket. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00853	I expected much better from the jacket. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00854	I expected much better from the jacket. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00855	I expected much better from the jacket. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00856	I expected much better from the jacket. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00857	I expected much better from the jacket. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00858	I expected much better from the jacket. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00859	I expected much better from the jacket. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00860	I expected much better from the jacket. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00861	I would avoid the jacket next time. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00862	I would avoid the jacket next time. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00863	I would avoid the jacket next time. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00864	I would avoid the jacket next time. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00865	I would avoid the jacket next time. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00866	I would avoid the jacket next time. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00867	I would avoid the jacket next time. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00868	I would avoid the jacket next time. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00869	I would avoid the jacket next time. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00870	I would avoid the jacket next time. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00871	I am really disappointed with the order. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00872	I am really disappointed with the order. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00873	I am really disappointed with the order. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00874	I am really disappointed with the order. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00875	I am really disappointed with the order. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00876	I am really disappointed with the order. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00877	I am really disappointed with the order. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00878	I am really disappointed with the order. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00879	I am really disappointed with the order. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00880	I am really disappointed with the order. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00881	I had a terrible experience with the order. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00882	I had a terrible experience with the order. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00883	I had a terrible experience with the order. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00884	I had a terrible experience with the order. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00885	I had a terrible experience with the order. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00886	I had a terrible experience with the order. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00887	I had a terrible experience with the order. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00888	I had a terrible experience with the order. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00889	I had a terrible experience with the order. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00890	I had a terrible experience with the order. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00891	The order was far below my expectations. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00892	The order was far below my expectations. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00893	The order was far below my expectations. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00894	The order was far below my expectations. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00895	The order was far below my expectations. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00896	The order was far below my expectations. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00897	The order was far below my expectations. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00898	The order was far below my expectations. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00899	The order was far below my expectations. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00900	The order was far below my expectations. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00901	I would not recommend the order. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00902	I would not recommend the order. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00903	I would not recommend the order. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00904	I would not recommend the order. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00905	I would not recommend the order. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00906	I would not recommend the order. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00907	I would not recommend the order. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00908	I would not recommend the order. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00909	I would not recommend the order. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00910	I would not recommend the order. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00911	I regret choosing the order. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00912	I regret choosing the order. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00913	I regret choosing the order. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00914	I regret choosing the order. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00915	I regret choosing the order. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00916	I regret choosing the order. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00917	I regret choosing the order. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00918	I regret choosing the order. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00919	I regret choosing the order. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00920	I regret choosing the order. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00921	Nothing about the order worked properly. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00922	Nothing about the order worked properly. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00923	Nothing about the order worked properly. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00924	Nothing about the order worked properly. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00925	Nothing about the order worked properly. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00926	Nothing about the order worked properly. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00927	Nothing about the order worked properly. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00928	Nothing about the order worked properly. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00929	Nothing about the order worked properly. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00930	Nothing about the order worked properly. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00931	The order caused me a lot of frustration. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00932	The order caused me a lot of frustration. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00933	The order caused me a lot of frustration. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00934	The order caused me a lot of frustration. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00935	The order caused me a lot of frustration. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00936	The order caused me a lot of frustration. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00937	The order caused me a lot of frustration. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00938	The order caused me a lot of frustration. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00939	The order caused me a lot of frustration. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00940	The order caused me a lot of frustration. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00941	I am unhappy with the quality of the order. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00942	I am unhappy with the quality of the order. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00943	I am unhappy with the quality of the order. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00944	I am unhappy with the quality of the order. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00945	I am unhappy with the quality of the order. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00946	I am unhappy with the quality of the order. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00947	I am unhappy with the quality of the order. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00948	I am unhappy with the quality of the order. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00949	I am unhappy with the quality of the order. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00950	I am unhappy with the quality of the order. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00951	I expected much better from the order. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00952	I expected much better from the order. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00953	I expected much better from the order. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00954	I expected much better from the order. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00955	I expected much better from the order. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00956	I expected much better from the order. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00957	I expected much better from the order. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00958	I expected much better from the order. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00959	I expected much better from the order. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00960	I expected much better from the order. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00961	I would avoid the order next time. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00962	I would avoid the order next time. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00963	I would avoid the order next time. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00964	I would avoid the order next time. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00965	I would avoid the order next time. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00966	I would avoid the order next time. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00967	I would avoid the order next time. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00968	I would avoid the order next time. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00969	I would avoid the order next time. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00970	I would avoid the order next time. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00971	I am really disappointed with the replacement item. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00972	I am really disappointed with the replacement item. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00973	I am really disappointed with the replacement item. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00974	I am really disappointed with the replacement item. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00975	I am really disappointed with the replacement item. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00976	I am really disappointed with the replacement item. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00977	I am really disappointed with the replacement item. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00978	I am really disappointed with the replacement item. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00979	I am really disappointed with the replacement item. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00980	I am really disappointed with the replacement item. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00981	I had a terrible experience with the replacement item. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00982	I had a terrible experience with the replacement item. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00983	I had a terrible experience with the replacement item. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00984	I had a terrible experience with the replacement item. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00985	I had a terrible experience with the replacement item. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00986	I had a terrible experience with the replacement item. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00987	I had a terrible experience with the replacement item. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00988	I had a terrible experience with the replacement item. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00989	I had a terrible experience with the replacement item. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00990	I had a terrible experience with the replacement item. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00991	The replacement item was far below my expectations. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00992	The replacement item was far below my expectations. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00993	The replacement item was far below my expectations. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00994	The replacement item was far below my expectations. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00995	The replacement item was far below my expectations. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00996	The replacement item was far below my expectations. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00997	The replacement item was far below my expectations. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00998	The replacement item was far below my expectations. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-00999	The replacement item was far below my expectations. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01000	The replacement item was far below my expectations. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01001	I would not recommend the replacement item. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01002	I would not recommend the replacement item. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01003	I would not recommend the replacement item. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01004	I would not recommend the replacement item. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01005	I would not recommend the replacement item. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01006	I would not recommend the replacement item. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01007	I would not recommend the replacement item. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01008	I would not recommend the replacement item. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01009	I would not recommend the replacement item. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01010	I would not recommend the replacement item. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01011	I regret choosing the replacement item. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01012	I regret choosing the replacement item. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01013	I regret choosing the replacement item. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01014	I regret choosing the replacement item. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01015	I regret choosing the replacement item. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01016	I regret choosing the replacement item. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01017	I regret choosing the replacement item. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01018	I regret choosing the replacement item. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01019	I regret choosing the replacement item. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01020	I regret choosing the replacement item. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01021	Nothing about the replacement item worked properly. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01022	Nothing about the replacement item worked properly. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01023	Nothing about the replacement item worked properly. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01024	Nothing about the replacement item worked properly. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01025	Nothing about the replacement item worked properly. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01026	Nothing about the replacement item worked properly. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01027	Nothing about the replacement item worked properly. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01028	Nothing about the replacement item worked properly. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01029	Nothing about the replacement item worked properly. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01030	Nothing about the replacement item worked properly. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01031	The replacement item caused me a lot of frustration. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01032	The replacement item caused me a lot of frustration. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01033	The replacement item caused me a lot of frustration. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01034	The replacement item caused me a lot of frustration. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01035	The replacement item caused me a lot of frustration. The quality was worse than the description suggested. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01036	The replacement item caused me a lot of frustration. The quality was worse than the description suggested. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01037	The replacement item caused me a lot of frustration. The instructions were confusing. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01038	The replacement item caused me a lot of frustration. The instructions were confusing. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01039	The replacement item caused me a lot of frustration. It failed repeatedly despite several attempts. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01040	The replacement item caused me a lot of frustration. It failed repeatedly despite several attempts. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01041	I am unhappy with the quality of the replacement item. The staff were dismissive and unhelpful. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01042	I am unhappy with the quality of the replacement item. The staff were dismissive and unhelpful. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01043	I am unhappy with the quality of the replacement item. It arrived much later than promised. I am not satisfied with the result.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01044	I am unhappy with the quality of the replacement item. It arrived much later than promised. That was a frustrating experience.	negative	English	synthetic_curated_seed	review_before_training	shopping
+SNT-01045	I am unhappy with the quality of the replacement item. The quality was worse than the description suggested. I am not satisfied with the result.	negative	En			
